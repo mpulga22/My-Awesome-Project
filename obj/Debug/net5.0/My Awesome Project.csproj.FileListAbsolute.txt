@@ -1,0 +1,16 @@
+C:\Users\marvin\Desktop\My Awesome Project\bin\Debug\net5.0\My Awesome Project.exe
+C:\Users\marvin\Desktop\My Awesome Project\bin\Debug\net5.0\My Awesome Project.deps.json
+C:\Users\marvin\Desktop\My Awesome Project\bin\Debug\net5.0\My Awesome Project.runtimeconfig.json
+C:\Users\marvin\Desktop\My Awesome Project\bin\Debug\net5.0\My Awesome Project.runtimeconfig.dev.json
+C:\Users\marvin\Desktop\My Awesome Project\bin\Debug\net5.0\My Awesome Project.dll
+C:\Users\marvin\Desktop\My Awesome Project\bin\Debug\net5.0\ref\My Awesome Project.dll
+C:\Users\marvin\Desktop\My Awesome Project\bin\Debug\net5.0\My Awesome Project.pdb
+C:\Users\marvin\Desktop\My Awesome Project\obj\Debug\net5.0\My Awesome Project.csproj.AssemblyReference.cache
+C:\Users\marvin\Desktop\My Awesome Project\obj\Debug\net5.0\My Awesome Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvin\Desktop\My Awesome Project\obj\Debug\net5.0\My Awesome Project.AssemblyInfoInputs.cache
+C:\Users\marvin\Desktop\My Awesome Project\obj\Debug\net5.0\My Awesome Project.AssemblyInfo.cs
+C:\Users\marvin\Desktop\My Awesome Project\obj\Debug\net5.0\My Awesome Project.csproj.CoreCompileInputs.cache
+C:\Users\marvin\Desktop\My Awesome Project\obj\Debug\net5.0\My Awesome Project.dll
+C:\Users\marvin\Desktop\My Awesome Project\obj\Debug\net5.0\ref\My Awesome Project.dll
+C:\Users\marvin\Desktop\My Awesome Project\obj\Debug\net5.0\My Awesome Project.pdb
+C:\Users\marvin\Desktop\My Awesome Project\obj\Debug\net5.0\My Awesome Project.genruntimeconfig.cache
