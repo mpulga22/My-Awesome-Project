@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = My_Awesome_Project
-build_property.ProjectDir = c:\Users\marvin\Desktop\My Awesome Project\
+build_property.ProjectDir = C:\Users\marvin\Desktop\My Awesome Project\
